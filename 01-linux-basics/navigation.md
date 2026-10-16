@@ -1,4 +1,4 @@
-pwd-(Print Working Directory)
+1.pwd-(Print Working Directory)
 
 The pwd command displays the path of the current working directory.
 In simple words, it works like a GPS for the terminal, helping you identify your current location in the directory structure.
