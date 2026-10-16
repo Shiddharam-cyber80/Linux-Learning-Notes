@@ -1,8 +1,6 @@
 # Linux-Learning-Notes
 My Linux command notes, practical exercises, and cybersecurity learning documentation.
 
-# Linux Learning Notes
-
 ## About
 This repository contains my personal Linux notes, command examples, and hands-on practice as I build my cybersecurity fundamentals.
 
