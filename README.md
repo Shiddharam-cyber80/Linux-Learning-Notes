@@ -7,9 +7,7 @@ This repository contains my personal Linux notes, command examples, and hands-on
 ## Current Learning
 - Linux fundamentals
 - Command-line navigation and file management
-- File searching and permissions
-- Pipes and redirection
-- SSH basics
+
 
 ## Repository Structure
 - `01-linux-basics/` — Navigation and file management
