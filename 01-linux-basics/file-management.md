@@ -59,3 +59,46 @@ does not already exist.
 
 The cp command helps me copy files in Linux . I also learned that I generally need the -r option to copy
 directories and their contents.
+
+----------------------------------------------------------------------------------------------------
+
+# 4. mv --(Move and Rename Files and Directories)
+
+The mv command is used to move files and directories from one location to another. It can also be used to rename files and directories.
+
+*Example 1 --Rename a file:*
+```bash
+mv file.txt file01.txt
+```
+This rename file.txt to file01.txt , assuming the source file exists and the destination name is available.
+
+*Example 2 --Move a file:* 
+```bash
+mv /home/kali/file01.txt folder1/
+```
+This moves file01.txt into the folder1 directory , assuming the source file and destination directory exit.
+
+*What I learned:*
+The mv command helps me rename files and directories and move them from one location to another in Linux.
+
+----------------------------------------------------------------------------------------------------
+
+# 5. rm --(Remove Files and Directories)
+
+The rm command is used to remove files in Linux. To remove directories and their contents, we can use the -r (recursive) option.
+
+*Example 1 --Remove a File*
+```bash
+rm file01.txt
+```
+This remove the file named file01.txt.
+
+*Example 2 --Remove a directory*
+```bash
+rm -r folder1
+```
+This removes the folder1 directory and its contents.
+
+*What I learned:*
+
+The rm command helps me remove the files and directories in Linux. I also learned that recursive deletion can be dangerous because it may remove multiple files and directories.
